@@ -6,6 +6,7 @@
 #include <cctype>
 using namespace std;
 int main() {
+    
     int index = 0;
     string message,key,message2,choice;
     bool x;
